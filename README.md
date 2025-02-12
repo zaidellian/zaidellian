@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @zaidellian
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning CYBER SECURITY
+- 👀 I’m a Cybersecurity analyst 
 - 📫 How to reach me 2004zaid27@gmail.com
